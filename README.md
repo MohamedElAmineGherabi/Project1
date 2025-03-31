@@ -7,9 +7,9 @@ Nmap (Network Mapper) is a free, open-source tool used by cybersecurity professi
 ---
 **Tasks Breakdown:**
 
-**Task 1: Installing and Verifying Nmap Installation**
+**Task 1: Installing and Verifying Nmap Installation & Version**
 
-Began by installing Nmap, ensuring it was set up correctly to function as needed. This foundational step is crucial as it ensures that all subsequent scanning activities are performed on a stable and reliable platform.
+Began by installing Nmap, ensuring it was set up correctly to function as needed, Also, verifying the installed version. This foundational step is crucial as it ensures that all subsequent scanning activities are performed on a stable and reliable platform.
 
 **Task 2: Accessing the Help Feature and Man Page for Nmap**
 
@@ -45,23 +45,24 @@ This project not only enhanced my technical skills in using Nmap for security as
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Task1: Installing and Verifying Nmap Installation <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 1: Installing and Verifying Nmap Installation & Version<br/>
+<img src="https://i.imgur.com/fzZtdbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-Select the disk:  <br/>
+Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Task 3: Running a Basic Nmap Scan on a Target <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Task 4: Running an Nmap Scan using Options  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Task 5: Output Nmap Scan Results to a File  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
