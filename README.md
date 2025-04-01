@@ -3,8 +3,9 @@
 
 <h2>Project Details</h2>
 Nmap (Network Mapper) is a free, open-source tool used by cybersecurity professionals to scan networks and systems for vulnerabilities. It is designed to be easy to install and use in authorized environments for non-malicious purposes.
+<br />
+<br />
 
----
 **Tasks Breakdown:**
 
 **Task 1: Installing and Verifying Nmap Installation & Version**
@@ -23,9 +24,27 @@ Conducted a basic Nmap scan on an authorized target. This step is vital for iden
 
 To refine my scanning process, I utilized specific Nmap options to achieve more accurate results, faster scans, and customized outputs. This demonstrates an advanced understanding of Nmap’s capabilities and how to tailor scans to meet specific needs.
 
-**Task 5: Output Nmap Scan Results to a File**
+**Task 5: Outputing Nmap Scan Results to a File**
 
 Finally, I exported the results of my previous scans into a file. This is beneficial for documentation and detailed analysis, allowing for a thorough review of the vulnerabilities at a later time.
+
+**Bonus Task: Running a Customized Scan on a Target**
+
+This is an additional task that I wanted to add where I will be running a customized scan on a target and saving the results in a txt file for the Security Team to review in the next meeting. I will:<br />
+
+
+- Perform an Nmap scan, scanning ports 22-80, on the target: scanme.nmap.org.
+
+- Use the appropriate option to enable OS and version detection, script scanning, and traceroute.
+
+- Set my scan to -T3 for the timing execution of the scan.
+
+- Output the scan results to a txt file named: output.txt.
+
+- Verify the contents of the output.txt file.
+
+- Be sure to reference my Nmap man page for help.
+
 
 **Key Takeaways:**
 
