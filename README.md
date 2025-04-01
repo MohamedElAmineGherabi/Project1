@@ -87,6 +87,16 @@ Task 5: Output Nmap Scan Results to a File  <br/>
 <img src="https://i.imgur.com/UkPQL5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/mawiIpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZHlRb1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uT6LkZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bRmG8ni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wj47Z1q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/An7vlYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ewO3tx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
 
 
 
