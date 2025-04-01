@@ -108,7 +108,7 @@ Task 3: Running a Basic Nmap Scan on a Target <br/>
 <br />
 <img src="https://i.imgur.com/2daLeYM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+<br />
 <br />
 Task 4: Running an Nmap Scan using Options  <br/>
 <br />
@@ -189,8 +189,7 @@ Bonus Task: Running a Customized Scan on a Target
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
