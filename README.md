@@ -67,29 +67,34 @@ This project not only enhanced my technical skills in using Nmap for security as
 <p align="center">
 Task 1: Installing and Verifying Nmap Installation & Version <br/>
 <br />
-<img src="https://i.imgur.com/T4JbEHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H5SRk79.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fzZtdbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NhDzAoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
 Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
 <br />
-<img src="https://i.imgur.com/KN5xELP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nTnUCVt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/4KWK4Gu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c7iQqw0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/U1w8fMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6dQg9mt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/dIoqWIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z6IzyhB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/nh3qvHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/oZBXXUD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/PBPpscw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/c2oBNko.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -97,25 +102,22 @@ Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
 <br />
 Task 3: Running a Basic Nmap Scan on a Target <br/>
 <br />
-<img src="https://i.imgur.com/6htmrdD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6OW2UcB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/tMJSC4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ASgTmRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/zi798jD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/2daLeYM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g4nxkky.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
 Task 4: Running an Nmap Scan using Options  <br/>
 <br />
-<img src="https://i.imgur.com/dIoqWIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tYk26xA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/NEKNGHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X79E6Ow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/IRVYs6l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -124,10 +126,10 @@ Task 4: Running an Nmap Scan using Options  <br/>
 <img src="https://i.imgur.com/PxM07VK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/bG1VGPQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zSPeYY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fHEEhf4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GNNDreq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
