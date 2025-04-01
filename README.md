@@ -48,6 +48,8 @@ This project not only enhanced my technical skills in using Nmap for security as
 Task 1: Installing and Verifying Nmap Installation & Version <br/>
 <br />
 <img src="https://i.imgur.com/T4JbEHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <img src="https://i.imgur.com/fzZtdbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
@@ -56,11 +58,15 @@ Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
 <br />
 <img src="https://i.imgur.com/KN5xELP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/4KWK4Gu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/U1w8fMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/dIoqWIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/nh3qvHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -73,9 +79,12 @@ Task 3: Running a Basic Nmap Scan on a Target <br/>
 <br />
 <img src="https://i.imgur.com/6htmrdD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/tMJSC4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/zi798jD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/2daLeYM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -85,13 +94,18 @@ Task 4: Running an Nmap Scan using Options  <br/>
 <br />
 <img src="https://i.imgur.com/dIoqWIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/NEKNGHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/IRVYs6l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/PxM07VK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/bG1VGPQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/fHEEhf4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -102,19 +116,27 @@ Task 5: Output Nmap Scan Results to a File  <br/>
 <br />
 <img src="https://i.imgur.com/KWhztEN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/UkPQL5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/mawiIpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/ZHlRb1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/uT6LkZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/bRmG8ni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/wj47Z1q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/An7vlYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/ewO3tx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
