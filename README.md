@@ -45,6 +45,7 @@ This is an additional task that I wanted to add where I will be running a custom
 
 - Be sure to reference my Nmap man page for help.
 
+<br />
 
 **Key Takeaways:**
 
@@ -168,8 +169,24 @@ Task 5: Output Nmap Scan Results to a File  <br/>
 
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bonus Task: Running a Customized Scan on a Target
+<br/>
+<br/>
+<img src="https://i.imgur.com/UftArVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<img src="https://i.imgur.com/bVmjmPE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<img src="https://i.imgur.com/sa917y7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<img src="https://i.imgur.com/vOvMqKJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<img src="https://i.imgur.com/jgo7hzD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <br />
 <br />
 Observe the wiped disk:  <br/>
